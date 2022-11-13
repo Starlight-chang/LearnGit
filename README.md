@@ -1,8 +1,13 @@
 # LearnGit
 
-## 一、查看电脑是否安装git
+## 一、前戏
 ```cpp {.line-numbers}
+//查看电脑是否安装git
 git
+//查看git版本
+git --version
+//查看包路径
+which git
 ```
 ## 二、创建 ssh key ，配置git
 1. 配置用户名和邮箱
